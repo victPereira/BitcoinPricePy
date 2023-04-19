@@ -7,8 +7,11 @@ Para executar o script, você precisa ter o Python 3 instalado em seu computador
 ## Como usar
 
 *Clone este repositório.
+
 *Instale as bibliotecas necessárias com o comando pip install -r requirements.txt.
+
 *Execute o script com o comando python bitcoin_price_tracker.py.
+
 *O script exibirá o preço atual do Bitcoin em USD, EUR, AOA e BRL. 
 
 ![Projeto](projeto.PNG)
